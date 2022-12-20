@@ -42,7 +42,6 @@ dependencies:
   - jinja2=3.1.2
   - jpeg=9e
   - jsonschema=4.17.3
-  - jupyter=1.0.0
   - jupyter_client=7.4.8
   - jupyter_console=6.4.4
   - jupyter_core=5.1.0
@@ -113,7 +112,6 @@ dependencies:
   - python_abi=3.10
   - pyyaml=6.0
   - pyzmq=24.0.1
-  - qtconsole=5.4.0
   - qtconsole-base=5.4.0
   - qtpy=2.3.0
   - readline=8.1.2
