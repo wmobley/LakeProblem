@@ -164,6 +164,7 @@ dependencies:
     - pydot
     - pyparsing
     - pytest
+    - graphviz
     - pytz
     - salib
     - scikit-learn
